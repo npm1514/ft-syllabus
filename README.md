@@ -2,89 +2,89 @@
 
 - [Week 1](#week1)
   - [Day 1](#day11)-11/30
-  - [Day 2](#day12)
-  - [Day 3](#day13)
-  - [Day 4](#day14)
-  - [Day 5](#day15)
+  - [Day 2](#day12)-12/1
+  - [Day 3](#day13)-12/2
+  - [Day 4](#day14)-12/3
+  - [Day 5](#day15)-12/4
 
 - [Week 2](#week2)
-  - [Day 1](#day21)
-  - [Day 2](#day22)
-  - [Day 3](#day23)
-  - [Day 4](#day24)
-  - [Day 5](#day25)
+  - [Day 1](#day21)-12/7
+  - [Day 2](#day22)-12/8
+  - [Day 3](#day23)-12/9
+  - [Day 4](#day24)-12/10
+  - [Day 5](#day25)-12/11
 
 - [Week 3](#week3)
-  - [Day 1](#day31)
-  - [Day 2](#day32)
-  - [Day 3](#day33)
-  - [Day 4](#day34)
-  - [Day 5](#day35)
+  - [Day 1](#day31)-12/14
+  - [Day 2](#day32)-12/15
+  - [Day 3](#day33)-12/16
+  - [Day 4](#day34)-12/17
+  - [Day 5](#day35)-12/18
 
 - [Week 4](#week4)
-  - [Day 1](#day41)
-  - [Day 2](#day42)
-  - [Day 3](#day43)
-  - [Day 4](#day44)
-  - [Day 5](#day45)
+  - [Day 1](#day41)-1/4
+  - [Day 2](#day42)-1/5
+  - [Day 3](#day43)-1/6
+  - [Day 4](#day44)-1/7
+  - [Day 5](#day45)-1/8
 
 - [Week 5](#week5)
-  - [Day 1](#day51)
-  - [Day 2](#day52)
-  - [Day 3](#day53)
-  - [Day 4](#day54)
-  - [Day 5](#day55)
+  - [Day 1](#day51)-1/11
+  - [Day 2](#day52)-1/12
+  - [Day 3](#day53)-1/13
+  - [Day 4](#day54)-1/14
+  - [Day 5](#day55)-1/15
 
 - [Week 6](#week6)
-  - [Day 1](#day61)
-  - [Day 2](#day62)
-  - [Day 3](#day63)
-  - [Day 4](#day64)
-  - [Day 5](#day65)
+  - [Day 1](#day61)-1/18
+  - [Day 2](#day62)-1/19
+  - [Day 3](#day63)-1/20
+  - [Day 4](#day64)-1/21
+  - [Day 5](#day65)-1/22
 
 - [Week 7](#week7)
 
 - [Week 8](#week8)
-  - [Day 1](#day71)
-  - [Day 2](#day72)
-  - [Day 3](#day73)
-  - [Day 4](#day74)
-  - [Day 5](#day75)
+  - [Day 1](#day71)-2/1
+  - [Day 2](#day72)-2/2
+  - [Day 3](#day73)-2/3
+  - [Day 4](#day74)-2/4
+  - [Day 5](#day75)-2/5
 
 - [Week 9](#week9)
-  - [Day 1](#day81)
-  - [Day 2](#day82)
-  - [Day 3](#day83)
-  - [Day 4](#day84)
-  - [Day 5](#day85)
+  - [Day 1](#day81)-2/8
+  - [Day 2](#day82)-2/9
+  - [Day 3](#day83)-2/10
+  - [Day 4](#day84)-2/11
+  - [Day 5](#day85)-2/12
 
 - [Week 10](#week10)
-  - [Day 1](#day91)
-  - [Day 2](#day92)
-  - [Day 3](#day93)
-  - [Day 4](#day94)
-  - [Day 5](#day95)
+  - [Day 1](#day91)-2/15
+  - [Day 2](#day92)-2/16
+  - [Day 3](#day93)-2/17
+  - [Day 4](#day94)-2/18
+  - [Day 5](#day95)-2/19
 
 - [Week 11](#week11)
-  - [Day 1](#day101)
-  - [Day 2](#day102)
-  - [Day 3](#day103)
-  - [Day 4](#day104)
-  - [Day 5](#day105)
+  - [Day 1](#day101)-2/22
+  - [Day 2](#day102)-2/23
+  - [Day 3](#day103)-2/24
+  - [Day 4](#day104)-2/25
+  - [Day 5](#day105)-2/26
 
 - [Week 12](#week12)
-  - [Day 1](#day111)
-  - [Day 2](#day112)
-  - [Day 3](#day113)
-  - [Day 4](#day114)
-  - [Day 5](#day115)
+  - [Day 1](#day111)-2/29
+  - [Day 2](#day112)-3/1
+  - [Day 3](#day113)-3/2
+  - [Day 4](#day114)-3/3
+  - [Day 5](#day115)-3/4
 
 - [Week 13](#week13)
-  - [Day 1](#day121)
-  - [Day 2](#day122)
-  - [Day 3](#day123)
-  - [Day 4](#day124)
-  - [Day 5](#day125)
+  - [Day 1](#day121)-3/7
+  - [Day 2](#day122)-3/8
+  - [Day 3](#day123)-3/9
+  - [Day 4](#day124)-3/10
+  - [Day 5](#day125)-3/11
 
 ## <a name="week1"></a> Week 1
 #### <a name="day11"></a>Day 1 - Orientation & Version Control
